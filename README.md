@@ -1,2 +1,2 @@
 # TextViaRNN
-A character-level neural network that generates text in the style of the provided corpus.
+Exploring the generation of text that adopts style from a given corpus using recurrent neural networks.
